@@ -1,0 +1,4 @@
+[![](http://xmonad.org/images/logo.png)](http://xmonad.org)
+
+
+Xmonad is a tiling window manager for X. Windows are arranged automatically to tile the screen without gaps or overlap, maximising screen use. All features of the window manager are accessible from the keyboard: a mouse is strictly optional. Xmonad is written and extensible in [Haskell](http://haskell.org). Custom layout algorithms, and other extensions, may be written by the user in config files. Layouts are applied dynamically, and different layouts may be used on each workspace. A guiding principle of the user interface is predictability: users should know in advance precisely the window arrangement that will result from any action, leading to an intuitive user interface.
